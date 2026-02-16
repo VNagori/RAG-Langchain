@@ -1,0 +1,44 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+streamlit
+langchain_ollama
+langchain_core
+langchain_groq
+langchain_chroma
+chromadb
+langchain_huggingface
+sentence-transformers
+pypdf
+faiss-cpu
+
+# Code modification capabilities (core)
+black
+autopep8
+isort
+
+# Optional: Advanced features (uncomment if needed)
+# gitpython
+# flake8
+# pylint
+# ast-decompiler
+# tree-sitter
+# tree-sitter-cpp
+# tree-sitter-python
+# libcst
+# rope
+# jedi
+
+
+
+
+
+
+
+
+
+
+
+
+
